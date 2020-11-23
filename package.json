@@ -1,0 +1,27 @@
+{
+  "name": "wd-vue",
+  "version": "1.0.0",
+  "description": "简易开发脚手架",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack-dev-server --hot --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/water-li-drop/wd-vue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/water-li-drop/wd-vue/issues"
+  },
+  "homepage": "https://github.com/water-li-drop/wd-vue#readme",
+  "dependencies": {
+    "webpack": "^5.6.0",
+    "webpack-cli": "^4.2.0"
+  },
+  "devDependencies": {
+    "vue": "^2.6.12"
+  }
+}
